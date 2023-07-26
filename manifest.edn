@@ -5,4 +5,12 @@
  :content       "content.cljs"
  :description   "Push and Pull todos to Trello"
  :source        "https://github.com/webbscope/logseq-trello-plugin"
- :homepage      "https://github.com/webbscope/logseq-trello-plugin"}
+ :homepage      "https://github.com/webbscope/logseq-trello-plugin"
+ :settings      [{:type "text" 
+                  :key "trello_api_key"
+                  :label "Trello API Key"
+                  :placeholder "Enter your Trello API Key"}
+                 {:type "text"
+                  :key "trello_secret"
+                  :label "Trello Secret"
+                  :placeholder "Enter your Trello Secret"}]}
