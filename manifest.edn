@@ -13,4 +13,8 @@
                  {:type "text"
                   :key "trello_secret"
                   :label "Trello Secret"
-                  :placeholder "Enter your Trello Secret"}]}
+                  :placeholder "Enter your Trello Secret"}
+                 {:type "text"
+                  :key "trello_todo_list_id"
+                  :label "Trello TODO List ID"
+                  :placeholder "Enter your Trello Todos list id"}]}
