@@ -1,0 +1,8 @@
+{:id            "trello-integration"
+ :name          "Trello Integration"
+ :version       "0.0.1"
+ :main          "main.js"
+ :content       "content.cljs"
+ :description   "Push and Pull todos to Trello"
+ :source        "https://github.com/webbscope/logseq-trello-plugin"
+ :homepage      "https://github.com/webbscope/logseq-trello-plugin"}
